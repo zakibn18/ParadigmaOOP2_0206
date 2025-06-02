@@ -21,5 +21,8 @@ public:
 
 int main()
 {
+  drivedClass a;
+  a.perkenalan();
 
+  return 0;
 }
