@@ -10,6 +10,15 @@ public:
   }
 };
 
+class drivedClass : public baseClass
+{
+public:
+  void perkenalan()
+  {
+    cout << "Hallo saya dari fungtion drived Class";
+  }
+};
+
 int main()
 {
 
