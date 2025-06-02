@@ -11,6 +11,11 @@ public:
   }
 };
 
+class joko : public seseorang
+{
+
+};
+
 int main()
 {
   
